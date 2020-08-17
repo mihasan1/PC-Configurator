@@ -1,0 +1,22 @@
+{
+  "name": "PC-Configurator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mihasan1/PC-Configurator.git"
+  },
+  "author": "Mihasan <mihasan1@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mihasan1/PC-Configurator/issues"
+  },
+  "homepage": "https://github.com/mihasan1/PC-Configurator#readme",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "description": ""
+}
